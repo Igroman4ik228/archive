@@ -868,6 +868,10 @@
         "ip": ""
     },
     {
+        "hostname": "mobileproxy.passport.yandex.net",
+        "ip": ""
+    },
+    {
         "hostname": "yandexwebcache.org",
         "ip": ""
     },
