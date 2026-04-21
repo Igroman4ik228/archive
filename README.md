@@ -4,4 +4,5 @@
 
 ## Структура
 
-- [zapret](./zapret/README.md)
+- [Zapret](./zapret/README.md)
+- [Amnezia VPN](./amnezia-vpn/README.md)

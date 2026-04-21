@@ -1,0 +1,906 @@
+[
+    {
+        "hostname": "2gis.com",
+        "ip": ""
+    },
+    {
+        "hostname": "2gis.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "5ka.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "adfox.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "adjust.com",
+        "ip": ""
+    },
+    {
+        "hostname": "admetrica.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "alfabank.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "aliexpress.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "apptracer.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "auto.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "auto.yandex",
+        "ip": ""
+    },
+    {
+        "hostname": "avito.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "avito.st",
+        "ip": ""
+    },
+    {
+        "hostname": "avto.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "avtodor-tr.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "beeline.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "beru.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "bringly.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "cdn-tinkoff.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "cdn-vk.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "cian.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "clstorage.net",
+        "ip": ""
+    },
+    {
+        "hostname": "com.am",
+        "ip": ""
+    },
+    {
+        "hostname": "com.ge",
+        "ip": ""
+    },
+    {
+        "hostname": "domopult.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "dzen.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "dzeninfra.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "eda.yandex",
+        "ip": ""
+    },
+    {
+        "hostname": "edadeal.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "gazprombank.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "gb.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "genotek.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "gosuslugi.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "gov.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "gu-st.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "habr.com",
+        "ip": ""
+    },
+    {
+        "hostname": "habrastorage.org",
+        "ip": ""
+    },
+    {
+        "hostname": "headhunter.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "hh.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "kinopoisk.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "lamoda.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "leroymerlin.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "lkk-mosobleirc.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "lmcdn.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "magnit.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mail.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "max.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "megafon.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "metrika.yandex",
+        "ip": ""
+    },
+    {
+        "hostname": "mos.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mosenergosbyt.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mosobleirc.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mosreg.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mradx.net",
+        "ip": ""
+    },
+    {
+        "hostname": "mts.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mvd.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mvk.com",
+        "ip": ""
+    },
+    {
+        "hostname": "myapelsin.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "mycdn.me",
+        "ip": ""
+    },
+    {
+        "hostname": "nalog.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "naydex.net",
+        "ip": ""
+    },
+    {
+        "hostname": "ok.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "okcdn.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "oneme.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.app",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.dev",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.global",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.kz",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.market",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "ozon.travel",
+        "ip": ""
+    },
+    {
+        "hostname": "ozone.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "perekrestok.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "pochta.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "podberi.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "punto-switcher.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "punto.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "questa.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "reso.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "rostaxi.org",
+        "ip": ""
+    },
+    {
+        "hostname": "ruscorpora.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "russianpost.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "rustore.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "rutube.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "rutubelist.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "rzd.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "saby.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "sber.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "sberbank.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "sbis.link",
+        "ip": ""
+    },
+    {
+        "hostname": "sbis.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "sferum.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "skillbox.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "skillfactory.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "sputnik.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "static-storage.net",
+        "ip": ""
+    },
+    {
+        "hostname": "t2.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "tamtam.chat",
+        "ip": ""
+    },
+    {
+        "hostname": "tbank.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "tenderplan.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "tensor.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "tetrika-school.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "tinkoff.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "uchi.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "userapi.com",
+        "ip": ""
+    },
+    {
+        "hostname": "video-yandex.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "videoyandex.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vk-analytics.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vk-apps.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vk-apps.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vk-cdn.me",
+        "ip": ""
+    },
+    {
+        "hostname": "vk-cdn.net",
+        "ip": ""
+    },
+    {
+        "hostname": "vk-portal.net",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.cc",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.company",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.design",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.link",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.me",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vk.team",
+        "ip": ""
+    },
+    {
+        "hostname": "vkcache.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vkclips.app",
+        "ip": ""
+    },
+    {
+        "hostname": "vkcloud-static.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vkgo.app",
+        "ip": ""
+    },
+    {
+        "hostname": "vklive.app",
+        "ip": ""
+    },
+    {
+        "hostname": "vkmessenger.app",
+        "ip": ""
+    },
+    {
+        "hostname": "vkmessenger.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vkontakte.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vkplay.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuser.net",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuseraudio.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuseraudio.net",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuseraudio.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vkusercdn.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuserlive.net",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuserphoto.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuservideo.com",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuservideo.net",
+        "ip": ""
+    },
+    {
+        "hostname": "vkuservideo.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vkvideo.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "vtb.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "wb.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "webvisor.com",
+        "ip": ""
+    },
+    {
+        "hostname": "webvisor.org",
+        "ip": ""
+    },
+    {
+        "hostname": "wildberries.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "x5.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "x5club.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "x5media.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "x5paket.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "x5static.net",
+        "ip": ""
+    },
+    {
+        "hostname": "xn----7sbbneb6bnecqehhbrn5y.xn--p1ai",
+        "ip": ""
+    },
+    {
+        "hostname": "xn--90aijkdmaud0d.xn--p1ai",
+        "ip": ""
+    },
+    {
+        "hostname": "xn--d1acpjx3f.xn--p1ai",
+        "ip": ""
+    },
+    {
+        "hostname": "ya.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yads.tech",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex-bank.net",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex-team.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex-video.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.aero",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.asia",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.az",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.by",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.cloud",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.co.il",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.com",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.com.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.com.tr",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.com.ua",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.de",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.dk",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.do",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.ee",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.es",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.eu",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.fi",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.fr",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.ie",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.in",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.it",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.jobs",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.kg",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.kz",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.lt",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.lu",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.lv",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.md",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.mobi",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.mx",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.net",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.net.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.net:443",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.no",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.nu",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.org",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.pl",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.pt",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.qa",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.ro",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.rs",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.ru ",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.sk",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.so",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.st",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.sx",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.tj",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.tm",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.ua",
+        "ip": ""
+    },
+    {
+        "hostname": "yandex.uz",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexadexchange.net",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexcloud.kz",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexcloud.net",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexcom.net",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexmetrica.com",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexsport.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yandexwebcache.org",
+        "ip": ""
+    },
+    {
+        "hostname": "yastat.net",
+        "ip": ""
+    },
+    {
+        "hostname": "yastatic-net.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "yastatic.net",
+        "ip": ""
+    },
+    {
+        "hostname": "ymetrica1.com",
+        "ip": ""
+    },
+    {
+        "hostname": "ymvccb7b8b.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "youla.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "zen.me",
+        "ip": ""
+    },
+    {
+        "hostname": "zenadservices.net",
+        "ip": ""
+    }
+]
