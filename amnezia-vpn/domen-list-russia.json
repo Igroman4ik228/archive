@@ -96,6 +96,18 @@
         "ip": ""
     },
     {
+        "hostname": "detmir-stats.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "detmir.ru",
+        "ip": ""
+    },
+    {
+        "hostname": "detmir.st",
+        "ip": ""
+    },
+    {
         "hostname": "domopult.ru",
         "ip": ""
     },
@@ -564,6 +576,10 @@
         "ip": ""
     },
     {
+        "hostname": "vkusvill.ru",
+        "ip": ""
+    },
+    {
         "hostname": "vkvideo.ru",
         "ip": ""
     },
@@ -868,10 +884,6 @@
         "ip": ""
     },
     {
-        "hostname": "mobileproxy.passport.yandex.net",
-        "ip": ""
-    },
-    {
         "hostname": "yandexwebcache.org",
         "ip": ""
     },
@@ -905,6 +917,10 @@
     },
     {
         "hostname": "zenadservices.net",
+        "ip": ""
+    },
+    {
+        "hostname": "mobileproxy.passport.yandex.net",
         "ip": ""
     }
 ]
